@@ -12,6 +12,5 @@
 # Visual Studio Generated Files #
 #################################
 *.VC.db
-*.vs
 
-*/*
+BuildingEscape/.vs
