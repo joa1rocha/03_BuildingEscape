@@ -12,8 +12,4 @@
 # Visual Studio Generated Files #
 #################################
 *.VC.db
-*.VC.db-shm
-*.VC.db-wal
-.suo
-
-*/.vs/*
+*/.vs
