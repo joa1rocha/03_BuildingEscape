@@ -16,4 +16,4 @@
 *.VC.db-wal
 .suo
 
-BuildingEscape/.vs
+*/.vs/*
